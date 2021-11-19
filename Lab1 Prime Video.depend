@@ -1,0 +1,757 @@
+# depslib dependency file v1.0
+1623439694 source:c:\users\desktop\desktop\examen 21_05\lab1 prime video\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+
+1624473621 source:c:\users\desktop\desktop\desarrollo\tps\lab1 prime video\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624304693 c:\users\desktop\desktop\desarrollo\tps\lab1 prime video\manejo de peliculas.h
+	"manejo de peliculas.h"
+
+1624304693 source:c:\users\desktop\desktop\desarrollo\tps\lab1 prime video\manejo de peliculas.c
+
+1624475359 source:c:\users\desktop\desktop\desarrollo\tps\lab1 prime video\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624470036 c:\users\desktop\desktop\desarrollo\tps\lab1 prime video\peliculas.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624309507 source:c:\users\desktop\desktop\desarrollo\tps\lab1 prime video\manejodeusuario.c
+	<stdio.h>
+	<stdlib.h>
+	"ManejoDeUsuario.h"
+	<conio.h>
+	<string.h>
+
+1624309409 c:\users\desktop\desktop\desarrollo\tps\lab1 prime video\manejodeusuario.h
+	"ManejoDeUsuario.h"
+	"peliculas.h"
+
+1624471326 source:c:\users\desktop\desktop\desarrollo\tps\lab1 prime video\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624367778 c:\users\desktop\desktop\desarrollo\tps\lab1 prime video\usuarios.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624471226 source:c:\users\desktop\desktop\desarrollo\tps\lab1 prime video\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624471226 c:\users\desktop\desktop\desarrollo\tps\lab1 prime video\login.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624471226 source:c:\users\octa\desktop\lab1_prime_video (1)\lab1 prime video\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624479895 c:\users\octa\desktop\lab1_prime_video (1)\lab1 prime video\peliculas.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624367778 c:\users\octa\desktop\lab1_prime_video (1)\lab1 prime video\usuarios.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624471226 c:\users\octa\desktop\lab1_prime_video (1)\lab1 prime video\login.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624479742 source:c:\users\octa\desktop\lab1_prime_video (1)\lab1 prime video\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624479751 source:c:\users\octa\desktop\lab1_prime_video (1)\lab1 prime video\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624479742 source:c:\users\octa\desktop\lab1_prime_video (1)\lab1 prime video\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624471226 source:c:\users\desktop\desktop\lab1_prime_video\lab1 prime video\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624487157 c:\users\desktop\desktop\lab1_prime_video\lab1 prime video\peliculas.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624487157 c:\users\desktop\desktop\lab1_prime_video\lab1 prime video\usuarios.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624471226 c:\users\desktop\desktop\lab1_prime_video\lab1 prime video\login.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624486648 source:c:\users\desktop\desktop\lab1_prime_video\lab1 prime video\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624481065 source:c:\users\desktop\desktop\lab1_prime_video\lab1 prime video\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624480178 source:c:\users\desktop\desktop\lab1_prime_video\lab1 prime video\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624471226 source:c:\users\usuario\desktop\tp prog\lab1_prime_video\lab1 prime video\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624547767 c:\users\usuario\desktop\tp prog\lab1_prime_video\lab1 prime video\peliculas.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624487157 c:\users\usuario\desktop\tp prog\lab1_prime_video\lab1 prime video\usuarios.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624471226 c:\users\usuario\desktop\tp prog\lab1_prime_video\lab1 prime video\login.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624488587 source:c:\users\usuario\desktop\tp prog\lab1_prime_video\lab1 prime video\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624481065 source:c:\users\usuario\desktop\tp prog\lab1_prime_video\lab1 prime video\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624549546 source:c:\users\usuario\desktop\tp prog\lab1_prime_video\lab1 prime video\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624471226 source:c:\users\desktop\desktop\lab1_mati\lab1_prime_video\lab1 prime video\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624566009 c:\users\desktop\desktop\lab1_mati\lab1_prime_video\lab1 prime video\peliculas.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624565852 c:\users\desktop\desktop\lab1_mati\lab1_prime_video\lab1 prime video\usuarios.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624471226 c:\users\desktop\desktop\lab1_mati\lab1_prime_video\lab1 prime video\login.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624564842 source:c:\users\desktop\desktop\lab1_mati\lab1_prime_video\lab1 prime video\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624564320 source:c:\users\desktop\desktop\lab1_mati\lab1_prime_video\lab1 prime video\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624565852 source:c:\users\desktop\desktop\lab1_mati\lab1_prime_video\lab1 prime video\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624471226 source:e:\users\usuario\downloads\lab one - proyecto\lab1_prime_video\lab1 prime video\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624566009 e:\users\usuario\downloads\lab one - proyecto\lab1_prime_video\lab1 prime video\peliculas.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624565852 e:\users\usuario\downloads\lab one - proyecto\lab1_prime_video\lab1 prime video\usuarios.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624471226 e:\users\usuario\downloads\lab one - proyecto\lab1_prime_video\lab1 prime video\login.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624564842 source:e:\users\usuario\downloads\lab one - proyecto\lab1_prime_video\lab1 prime video\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624564320 source:e:\users\usuario\downloads\lab one - proyecto\lab1_prime_video\lab1 prime video\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624569053 source:e:\users\usuario\downloads\lab one - proyecto\lab1_prime_video\lab1 prime video\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624471226 source:c:\users\usuario\desktop\lab1 prime video 2.0 beta\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624566009 c:\users\usuario\desktop\lab1 prime video 2.0 beta\peliculas.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624571483 c:\users\usuario\desktop\lab1 prime video 2.0 beta\usuarios.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624471226 c:\users\usuario\desktop\lab1 prime video 2.0 beta\login.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624564842 source:c:\users\usuario\desktop\lab1 prime video 2.0 beta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624573809 source:c:\users\usuario\desktop\lab1 prime video 2.0 beta\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+	<ctype.h>
+
+1624572608 source:c:\users\usuario\desktop\lab1 prime video 2.0 beta\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624637376 source:c:\users\desktop\desktop\lab1 prime video 2.0 beta\lab1 prime video 2.0 beta\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<ctype.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624584445 c:\users\desktop\desktop\lab1 prime video 2.0 beta\lab1 prime video 2.0 beta\peliculas.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624586591 c:\users\desktop\desktop\lab1 prime video 2.0 beta\lab1 prime video 2.0 beta\usuarios.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624591559 c:\users\desktop\desktop\lab1 prime video 2.0 beta\lab1 prime video 2.0 beta\login.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624632350 source:c:\users\desktop\desktop\lab1 prime video 2.0 beta\lab1 prime video 2.0 beta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<ctype.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624637425 source:c:\users\desktop\desktop\lab1 prime video 2.0 beta\lab1 prime video 2.0 beta\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<ctype.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624637243 source:c:\users\desktop\desktop\lab1 prime video 2.0 beta\lab1 prime video 2.0 beta\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<ctype.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624637376 source:c:\users\desktop\desktop\programacion - lab one\lab1 prime video\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<ctype.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624584445 c:\users\desktop\desktop\programacion - lab one\lab1 prime video\peliculas.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624586591 c:\users\desktop\desktop\programacion - lab one\lab1 prime video\usuarios.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624591559 c:\users\desktop\desktop\programacion - lab one\lab1 prime video\login.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624638853 source:c:\users\desktop\desktop\programacion - lab one\lab1 prime video\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<ctype.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624637243 source:c:\users\desktop\desktop\programacion - lab one\lab1 prime video\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<ctype.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624637425 source:c:\users\desktop\desktop\programacion - lab one\lab1 prime video\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<ctype.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624637376 source:c:\users\desktop\desktop\programacion - lab one\lab1 prime video\lab1 prime video\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<ctype.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624584445 c:\users\desktop\desktop\programacion - lab one\lab1 prime video\lab1 prime video\peliculas.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624586591 c:\users\desktop\desktop\programacion - lab one\lab1 prime video\lab1 prime video\usuarios.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624591559 c:\users\desktop\desktop\programacion - lab one\lab1 prime video\lab1 prime video\login.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624642297 source:c:\users\desktop\desktop\programacion - lab one\lab1 prime video\lab1 prime video\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<ctype.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624637243 source:c:\users\desktop\desktop\programacion - lab one\lab1 prime video\lab1 prime video\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<ctype.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624637425 source:c:\users\desktop\desktop\programacion - lab one\lab1 prime video\lab1 prime video\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<ctype.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624648518 source:c:\users\desktop\desktop\desarrollo\1er cuatri\tps\programacion - lab one\programacion - lab one\programacion - lab one\lab1 prime video\lab1 prime video\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<ctype.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624584445 c:\users\desktop\desktop\desarrollo\1er cuatri\tps\programacion - lab one\programacion - lab one\programacion - lab one\lab1 prime video\lab1 prime video\peliculas.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624586591 c:\users\desktop\desktop\desarrollo\1er cuatri\tps\programacion - lab one\programacion - lab one\programacion - lab one\lab1 prime video\lab1 prime video\usuarios.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624591559 c:\users\desktop\desktop\desarrollo\1er cuatri\tps\programacion - lab one\programacion - lab one\programacion - lab one\lab1 prime video\lab1 prime video\login.h
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624642297 source:c:\users\desktop\desktop\desarrollo\1er cuatri\tps\programacion - lab one\programacion - lab one\programacion - lab one\lab1 prime video\lab1 prime video\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<ctype.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624637243 source:c:\users\desktop\desktop\desarrollo\1er cuatri\tps\programacion - lab one\programacion - lab one\programacion - lab one\lab1 prime video\lab1 prime video\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<ctype.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
+1624637425 source:c:\users\desktop\desktop\desarrollo\1er cuatri\tps\programacion - lab one\programacion - lab one\programacion - lab one\lab1 prime video\lab1 prime video\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<ctype.h>
+	"peliculas.h"
+	"usuarios.h"
+	"login.h"
+
